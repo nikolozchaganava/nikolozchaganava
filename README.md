@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikolozchaganava
 - 👀 I’m interested in programming, especially making web-sites.
-- 🌱 I’m currently learning HTML and CSS (Soon Javascript)
+- 🌱 I’m currently learning HTML, CSS and JS(Hope C# or C++ too)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
